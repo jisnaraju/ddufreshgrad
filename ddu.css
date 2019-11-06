@@ -1,0 +1,130 @@
+.a{
+    position: absolute;
+    visibility: visible;
+    left:0px;
+    top:0px;
+    height: 794px;
+    width:250px;
+    background-color: black;
+}
+h2{
+  color: white;
+}
+.b{
+position: absolute;
+visibility: visible;
+left:2px;
+top:130px;
+height: 30px;
+width:100px;
+}
+.b a{
+  color: white;
+  text-decoration: none;
+  margin-left: 15px;
+}
+.b a :hover{
+  background-color: red;
+  width: 100px;
+  height: 150px;
+  color: white;
+  display: block;
+
+}
+  .bu{
+    border-radius:12px;
+    position: absolute;
+    left:300px;
+    top:5px;
+    height: 30px;
+    width:88px;
+    background-color: #00FA9A;
+    padding: 2px;color: white;
+    border :1px solid #e0eod1;
+    }
+.b2{
+  border-radius: 12px;position: absolute;
+  visibility: visible;left:402px;top:5px;
+  height: 31px;width:74px;background-color: #00FA9A;
+  padding: 2px;color: white;
+}
+.b3{
+  position: absolute;visibility: visible;
+  left:821px;top:5px;height: 31px;width:110px;
+  background-color: #00FA9A;padding: 2px;color: white;
+}
+.b4{
+  position: absolute;visibility: visible;
+  left:952px;top:5px;height: 31px;width:100px;
+  background-color: #00FA9A;padding: 2px;color: white;
+}
+.b5
+{
+   position: absolute;visibility: visible;
+     left:300px;top:54px;
+}
+.b6
+{
+  position: absolute;visibility:visible;
+  left:300px;top:127px;height: 50px;
+  width:270px;background-color: white;padding: 1px;
+  border: 1px solid gray;
+}
+.b7
+{
+  position: absolute;visibility:visible;
+  left:580px;top:127px;height: 50px;
+  width:270px;background-color: white;padding: 2px;
+  border: 1px solid-gray;
+}
+.b8
+{
+  position: absolute;visibility:visible;left:860px;
+  top:127px;height: 50px;width:270px;background-color: white;
+  padding: 2px;border: 1px solid-gray;
+}
+.b9
+{
+  position: absolute;visibility:visible;
+  left:300px;top:204px;height: 25px;width:96px;
+  background-color: white;padding: 2px;border: 1px solid-gray;
+}
+.c1{
+  position: absolute;
+  visibility: visible;
+  left:980px;top:190px;
+
+}
+.c2{
+  position: absolute;visibility: visible;
+  left:1030px;top:204px;height: 31px;width:50px;
+  background-color:white;padding: 2px;color: black;
+}
+.c3{
+  position: absolute;
+  visibility: visible;
+  left:1090px;top:190px;
+}
+table{
+  position: absolute;
+  visibility: visible;
+  left:300px;top:250px;
+  width: 900px;
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+tr{
+  outline: thin solid #e0e0d1;
+  }
+  th{
+    border-collapse: collapse;
+    padding: 12px;
+    text-align:left;
+    background-color:#e0e0d1;
+
+  }
+  td{
+    border-collapse: collapse;
+    padding: 15px;
+    text-align:left;
+    }
